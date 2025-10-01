@@ -12,7 +12,7 @@ It is particularly useful for:
 
 In this project, the maze is treated as a graph: every free cell is a node, and the allowed moves (up, down, left, right) are edges.
 
-For more details --> ![BFS](https://en.wikipedia.org/wiki/Breadth-first_search)
+For more details --> https://en.wikipedia.org/wiki/Breadth-first_search
 ---
 # 🛠️ Code Structure
 
